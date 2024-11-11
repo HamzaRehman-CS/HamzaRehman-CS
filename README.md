@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CS
 - 💞️ I’m looking to collaborate on ????
 - 📫 How to reach me PAK AUSTRIA
-- 😄 Pronouns: he his
+- 😄 Pronouns: he,his
 - ⚡ Fun fact: ????
 
 <!---
