@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HamzaRehman-CS
+- 👋 Hi, I’m @HamzaRehman
 - 👀 I’m interested in games
 - 🌱 I’m currently learning CS
 - 💞️ I’m looking to collaborate on ????
